@@ -1,0 +1,11 @@
+{
+    "id": "single-pebble",
+    "name": "A Single Pebble",
+    "address": "133 Bank St.",
+    "phone number": "865-5200",
+    "hours": "12-8 pm",
+    "lat,long": "44.47795, -73.21464",
+    "notes": [
+        "Welcoming spot serving Chinese specialties family-style"
+    ]
+}

@@ -1,9 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Home from "./components/Home";
+import About from "./components/About";
+import "./styles/App.css";
+import Map from './components/Map'
 
 function App() {
   return (
-    <h1>Yelpington</h1>
+    
+    <div>
+      <Map/>
+      <BrowserRouter>
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/about" component={About} />
+        </Switch>
+      </BrowserRouter>
+    </div>
   );
 }
 
