@@ -4,7 +4,8 @@
     "address": "115 St Paul St.",
     "phone number": "861-2999",
     "hours": "12-8 pm",
-    "lat,long": "44.476559, -73.214352",
+    "lat": "44.476559",
+    "long": "-73.214352",
     "notes": [
         "Lively choice for wood-fired pizzas loaded with organic, seasonal toppings."
     ]

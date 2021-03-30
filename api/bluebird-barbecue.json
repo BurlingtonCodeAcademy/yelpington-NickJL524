@@ -4,7 +4,8 @@
     "address": "317 Riverside Ave.",
     "phone number": "448-3070",
     "hours": "4-8 pm",
-    "lat,long": "44.48789, -73.19541",
+    "lat": "44.48789",
+    "long": "-73.19541",
     "notes": [
         "Casual eatery serving slow-cooked meats & classic sides on metal trays."
     ]

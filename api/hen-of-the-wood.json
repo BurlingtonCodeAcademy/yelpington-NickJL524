@@ -4,7 +4,8 @@
     "address": "55 Cherry St.",
     "phone number": "540-0534",
     "hours": "5-9 pm",
-    "lat,long": "44.479160, -73.216540",
+    "lat": "44.479160",
+    "long": "-73.216540",
     "notes": [
         "Intimate eatery featuring daily menus of local, seasonal fare."
     ]

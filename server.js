@@ -3,7 +3,7 @@ const express = require('express')
 const path = require('path')
 
 const app = express()
-
+//listening on port 5000
 const port = process.env.PORT || 5000
 
 app.use(express.static('./client/public'))
@@ -33,7 +33,7 @@ app.get('/api.json', (req, res) => {
 app.get('*', (req, res) => {
     res.sendFile(path.resolve('./client/public/index.html'))
 })
-
+//listening on port port
 app.listen(port, () => {
     console.log('listening on port', port)
 })

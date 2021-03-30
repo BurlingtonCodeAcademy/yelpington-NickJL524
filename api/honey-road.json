@@ -4,7 +4,8 @@
     "address": "156 Church St.",
     "phone number": "497-2145",
     "hours": "9 am - 7 pm",
-    "lat,long": "44.478199, -73.212635",
+    "lat": "44.478199",
+    "long": "-73.212635",
     "notes": [
         "Sophisticated Mediterranean small plates."
     ]

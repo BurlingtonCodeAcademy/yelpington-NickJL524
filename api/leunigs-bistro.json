@@ -4,7 +4,8 @@
     "address": "115 Church St.",
     "phone number": "863-3759",
     "hours": "12-8 pm",
-    "lat,long": "44.478199, -73.212635",
+    "lat": "44.478199",
+    "long": "-73.212635",
     "notes": [
         "Classic French dishes meet hearty Vermont fare."
     ]

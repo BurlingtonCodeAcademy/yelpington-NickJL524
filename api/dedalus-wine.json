@@ -4,7 +4,8 @@
     "address": "388 Pine St.",
     "phone number": "540-2595",
     "hours": "4-10 pm",
-    "lat,long": "44.46849, -73.21430",
+    "lat": "44.46849",
+    "long": "-73.21430",
     "notes": [
         "Interesting menu of small plates and nice wine selection"
     ]
